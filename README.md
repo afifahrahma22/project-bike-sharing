@@ -2,7 +2,7 @@
 
 ## Streamlit Dahsboard
 ### 📊 **Online Dashboard**<br>
-Akses dashboard secara online disini: 
+Akses dashboard secara online disini: [Streamlit Dashboard](https://project-bike-sharing-afifahrahma22.streamlit.app/)
 
 ### 📊 **Local Dashboard**<br>
 Berikut adalah cara untuk menjalankan dashboard secara local
